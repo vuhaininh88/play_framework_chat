@@ -1,3 +1,3 @@
 
-This is an example of real time chat created with Play Framework, AngularJS and websockets for 
-the [blog post](http://groz.github.io/scala/practical/chat/).
+
+https://docs.google.com/document/d/1sKpiS0SxXi5gdnKIN4skMusG9C0G0UpBC8m2Jwj_w_w/edit#heading=h.bk21ma5flz3x
