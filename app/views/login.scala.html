@@ -1,0 +1,16 @@
+@()
+
+@main("Login") {
+    <div ng-app="ChatApp">
+        <div ng-controller="ChatController as chat">
+            <form>
+                <input type="text" placeholder="Enter name..."
+                ng-model="chat.username">
+                <input type="password" placeholder="Enter password..."
+                ng-model="chat.currentMessage">
+                <input type="submit" value="Login"
+                ng-click="chat.login()">
+            </form>
+        </div>
+    </div>
+}
